@@ -1,1 +1,6 @@
-This is my first file in GitHub I like it a lot.
+---
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text
+Use the left arrow to go back!
